@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Calorties</string>
+<string name="app_name">Calorties</string>
+<string name="title_home">Home</string>
+<string name="title_inputimages">Input</string>
+<string name="title_history">History</string>
+<string name="title_profile">Profile</string>
+<string name="images_from_camera">Ambil foto dari kamera</string>
+<string name="images_from_gallery">Pilih foto dari galeri</string>
+<string name="calori">Kalori</string>
+<string name="calori_total">Jumlah Kalori</string>
+<string name="calori_date">Tanggal</string>
 </resources>
